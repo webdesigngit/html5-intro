@@ -12,5 +12,5 @@ git branch -M main
 git push -u origin main
 
 git add .
-git commit -m "comment"
+git commit -m "Deleted some files"
 git push
